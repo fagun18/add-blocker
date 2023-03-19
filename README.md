@@ -45,17 +45,17 @@ Contact
 If you have any questions or comments about the ad blocker extension, please feel free to contact us at
 
 
-Facebook Profile: Mejbaur Bahar Fagun | Facebook
+[Facebook Profile: Mejbaur Bahar Fagun](https://www.facebook.com/mbfagun)
 
-Facebook Page: Mejbaur Bahar | Benapole | Facebook
+[Facebook Page: Mejbaur Bahar ](https://www.facebook.com/mbf018)
 
-Twitter: Mejbaur Bahar Fagun (@fagun018) / Twitter
+[Twitter: Mejbaur Bahar Fagun (@fagun018) ](https://twitter.com/fagun018)
 
-Instagram: Mejbaur Bahar Fagun (@fagun018) • Instagram photos and videos
+[Instagram: Mejbaur Bahar Fagun (@fagun018)](https://www.instagram.com/fagun018/)
 
-LinkedIn: Mejbaur Bahar Fagun | LinkedIn
+[LinkedIn: Mejbaur Bahar Fagun | LinkedIn](https://www.linkedin.com/in/mejbaur/)
 
-Github: fagunti (Mejbaur Bahar Fagun)
+[Github: fagunti (Mejbaur Bahar Fagun)](https://github.com/fagunti)
 
 [Medium: Mejbaur Bahar Fagun — Medium](https://fagun18.medium.com/)
 
