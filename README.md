@@ -57,10 +57,10 @@ LinkedIn: Mejbaur Bahar Fagun | LinkedIn
 
 Github: fagunti (Mejbaur Bahar Fagun)
 
-Medium: Mejbaur Bahar Fagun — Medium
+[Medium: Mejbaur Bahar Fagun — Medium](https://fagun18.medium.com/)
 
-Hashnode: Mejbaur Bahar Fagun
+[Hashnode: Mejbaur Bahar Fagun](https://fagun.hashnode.dev/)
 
-[Youtube: ](https://www.youtube.com/channel/UC4Pgj5J2ZUxAVH9iAPfqL5g)
+[Youtube: Mejbaur Bahar Fagun ](https://www.youtube.com/channel/UC4Pgj5J2ZUxAVH9iAPfqL5g)
 
 
