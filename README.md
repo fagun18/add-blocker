@@ -1,6 +1,27 @@
 # Fagun Ad Blocker Extension
 My Ad Blocker is a Chrome browser extension that blocks ads from appearing on webpages. It is designed to improve the browsing experience by removing unwanted advertising content.
 
+1. Start by creating a new folder on your computer where you will save the extension files.
+
+2. Inside the new folder, create a file called manifest.json .
+3. Create a new file called background.js 
+4. Create a new file called content.js
+5. Save all the files and open Chrome.
+
+6. Click the three-dot menu icon in the top-right corner of the browser window, then select "More tools" and "Extensions".
+
+7. Enable "Developer mode" in the top-right corner of the window.
+
+8. Click "Load unpacked" and select the folder where you saved the extension files.
+
+9. The ad blocker extension should now be loaded and active in Chrome.
+
+Note: This is just a basic example of how to create an ad blocker extension. To make a more effective and comprehensive ad blocker, you may need to add more rules to the background.js file and modify the content.js file to target specific ad elements on webpages.
+
+
+
+
+
 Installation
 To install the extension, follow these steps:
 
