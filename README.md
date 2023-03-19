@@ -3,9 +3,9 @@ My Ad Blocker is a Chrome browser extension that blocks ads from appearing on we
 
 1. Start by creating a new folder on your computer where you will save the extension files.
 
-2. Inside the new folder, create a file called manifest.json .
-3. Create a new file called background.js 
-4. Create a new file called content.js
+2. Inside the new folder, create a file called manifest.json . This code sets up the basic structure of the extension, including its name, version, permissions, background scripts, and content scripts.
+3. Create a new file called background.js . This code tells Chrome to block requests to URLs that contain doubleclick.net or googleadservices.com.
+4. Create a new file called content.js. This code hides all <iframe> and <img> elements on the page.
 5. Save all the files and open Chrome.
 
 6. Click the three-dot menu icon in the top-right corner of the browser window, then select "More tools" and "Extensions".
